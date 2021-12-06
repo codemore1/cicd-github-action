@@ -6,7 +6,7 @@ This repository is a complement to my medium article. If you wanna follow step b
 
 ## Architecture
 
-This is how our infrastructure works:
+This is how our infrastructure works using the components below:
 
 ## Golang
 
